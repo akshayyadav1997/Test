@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+.img_clg_title 
+{
+	
+	text-align: center;
+	
+}
+
+.title 
+{
+	
+	color: #9DFF38;
+	background-color: ghostwhite;
+	padding-top: 52px;
+	
+}
+
+.title h2
+{
+	line-height: 60px;
+}
+
+.img_clg img
+{
+    
+	width:70%;
+	
+	
+}
+
+.clg_building_info ul li
+{
+	
+	list-style: square;
+}
